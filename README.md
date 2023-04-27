@@ -3,9 +3,9 @@
 
 Castleton Lyons is one of the largest private horse farms in Kentucky. It is owned by Irish businessman Shane Ryan and boasts several world class stallions.
 
-![Caption of map](map.jpg)     
-*Caption of Map*
+![Castleton Lyons](Layout.jpg)     
+*This map shows the boundary of the horse farm*
 
-[Link to high-resolution version](hi-res.pdf)     
+[Link to high-resolution version](Layout.pdf)     
 
-Information about the author and data sources used in the analysis.
+Map created by sbti226 for GEO 409, Spring 2023, University of Kentucky, Department of Geography. Data acquired from kyraster.ky.gov. Use of ArcGIS and Blender to create image.
